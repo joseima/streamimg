@@ -1,1 +1,1 @@
-# streamimg
+# streaming
